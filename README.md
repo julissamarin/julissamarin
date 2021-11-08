@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julissamarin
-- 👀 I’m interested in healthcare data analytics 
+- 👀 I’m interested in data analytics 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects or ideas 
 - 📫 How to reach me linkedin.com/julissamarin
